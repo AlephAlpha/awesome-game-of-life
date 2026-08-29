@@ -55,6 +55,7 @@ A curated list of Conway's Game of Life resources and tools.
 - [copy.sh/life/](http://copy.sh/life/) - A JavaScript version of Conway's Game of Life, based on the Hashlife-algorithm.
 - [Golly for the Web](http://golly.sourceforge.net/webapp/golly.html) - A web version of Golly.
 - [Golgi](http://mame.github.io/golgi/) - A "Cellular" Viewer for Conwey's Game of Life
+- [Cellscape](https://github.com/rcastro1089/cellular-art-generator) - A browser-based cellular automata art generator with WebGL2 rendering, 3D surfaces (torus, sphere, black-hole lens), and print-quality export ([live demo](https://cellscape.art/))
 
 ### Library
 
